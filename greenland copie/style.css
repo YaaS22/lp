@@ -1,0 +1,36 @@
+    /* >>>>>>>>>>>>>>>>>>>>>>>>>>>>
+    :: Template Name: Greenland - Multipurpose Landing Page
+    :: Author: Designing World
+    :: Author URL: https://themeforest.net/user/classyfort
+    :: Description: Greenland is completely creative, lightweight, clean & super responsive multipurpose landing page. Put your website into next level with it.
+    :: Version: 1.0
+    <<<<<<<<<<<<<<<<<<<<<<<<<<<< */
+    
+    * {
+        margin: 0;
+        padding: 0;
+    }
+    
+    .floatleft {
+        float: left
+    }
+    
+    .floatright {
+        float: right
+    }
+    
+    .alignleft {
+        float: left;
+        margin-right: 15px;
+    }
+    
+    .alignright {
+        float: right;
+        margin-left: 15px;
+    }
+    
+    .aligncenter {
+        display: block;
+        margin: 0 auto 15px;
+    }
+    /* Place your custom css code here */

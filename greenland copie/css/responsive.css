@@ -1,0 +1,309 @@
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+    .app_landing_version .welcome_text_area>h2,
+    .product_welcome_area .welcome_text_area>h2 {
+        font-size: 48px
+    }
+    .service_welcome_area .welcome_text_area>h2,
+    .landing_one_version .about_text>h2 {
+        font-size: 40px
+    }
+    .welcome_text_area {
+        padding: 30px 15px
+    }
+}
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    .mainmenu ul#nav li a {
+        padding: 39px 10px
+    }
+    .landing_one_version .mainmenu ul#nav li a {
+        font-size: 13px;
+        padding: 39px 3px
+    }
+    .product_landing .about_product_thumb {
+        margin-bottom: 50px
+    }
+    .product_landing.our_speciality_area .special_area_description,
+    .product_landing.our_speciality_area .special_img {
+        display: inline-block;
+        float: none;
+        height: 500px;
+        text-align: center;
+        width: 100%
+    }
+    .product_landing .special_text {
+        padding-left: 0;
+        width: 100%
+    }
+    .app_landing_version .welcome_text_area>h2,
+    .app_landing_version.signupform_area .welcome_text_area>h2 {
+        font-size: 36px
+    }
+    .product_welcome_area .welcome_text_area>h2,
+    .service_welcome_area .welcome_text_area>h2 {
+        font-size: 30px
+    }
+    .welcome_text_area {
+        padding: 15px
+    }
+    .cta_text h2 {
+        font-size: 24px
+    }
+    .app_landing_version .about_us_text_area {
+        padding-top: 50px
+    }
+    .app_landing_version .welcome_text_area>p {
+        font-size: 18px
+    }
+    .download_now .greenland-btn {
+        padding: 0.5em 1em
+    }
+    .social_links_area>a {
+        margin-right: 0
+    }
+    .product_landing .download_app_text {
+        width: 100%;
+        padding: 15px
+    }
+    .landing_one_version .about_single_part_area .about_text {
+        padding: 0 50px
+    }
+    .landing_one_version .about_text>h2 {
+        font-size: 30px
+    }
+}
+@media only screen and (min-width: 320px) and (max-width: 767px) {
+    .table {
+        position: relative;
+        z-index: 9
+    }
+    .mean-container a.meanmenu-reveal span {
+        background-color: #111
+    }
+    .mean-container a.meanmenu-reveal {
+        padding: 24px
+    }
+    .landing_one_version .landing_hero_text>h2 {
+        font-size: 40px
+    }
+    .landing_one_version .about_single_part_area .about_thumb {
+        display: block;
+        float: none;
+        width: 100%
+    }
+    .landing_one_version .about_single_part_area .about_us_content {
+        display: block;
+        float: none;
+        height: 300px !important;
+        width: 100%
+    }
+    .landing_one_version .single_footer_widget {
+        margin-bottom: 30px
+    }
+    .product_landing .welcome_text_area h2 {
+        font-size: 20px;
+        margin-bottom: 15px
+    }
+    .product_landing .welcome_text_area p {
+        font-size: 14px
+    }
+    .product_landing .welcome_text_area a {
+        font-size: 15px;
+        padding: 5px 10px 5px 30px
+    }
+    .product_landing .welcome_text_area>a>i {
+        font-size: 20px;
+        left: 6px;
+        top: 4px
+    }
+    .product_landing .welcome_area_thumb {
+        margin: 30px 50px 0
+    }
+    .product_landing .section_heading>h2 {
+        font-size: 24px
+    }
+    .product_landing .about_product_thumb {
+        margin-bottom: 50px
+    }
+    .product_landing .key_features_img {
+        margin: 50px auto 0
+    }
+    .product_landing .testimonial_text>p {
+        font-size: 14px
+    }
+    .product_landing .single_extra_feature {
+        width: 100%
+    }
+    .product_landing .download_app {
+        height: 400px;
+        width: 100%
+    }
+    .product_landing .download_app_text {
+        float: none;
+        text-align: center;
+        width: 100% !important;
+        padding: 15px
+    }
+    .product_landing.our_speciality_area .special_area_description,
+    .product_landing.our_speciality_area .special_img {
+        display: inline-block;
+        float: none;
+        height: 400px;
+        text-align: center;
+        width: 100%
+    }
+    .product_landing .special_text {
+        padding: 15px;
+        width: 100%
+    }
+    .product_landing .special_text>h2 {
+        font-size: 18px
+    }
+    .product_landing .special_area_description a {
+        padding: 5px 10px
+    }
+    .product_landing .about_product_thumb>img {
+        max-width: 300px
+    }
+    .app_landing_version .testimonial_text>p {
+        font-size: 20px
+    }
+    .app_landing_version .welcome_text_area>h2 {
+        font-size: 30px
+    }
+    .app_welcome_area.app_landing_version {
+        height: 650px
+    }
+    .cta_text h2 {
+        font-size: 30px
+    }
+    .welcome_video_area {
+        margin-top: 30px
+    }
+    .landing_one_version .about_single_part_area.even .about_text {
+        float: none
+    }
+    .signup_form_area {
+        padding: 15px
+    }
+    .signup_from .form-control {
+        height: 35px
+    }
+    .signup_form_area>h3 {
+        font-size: 16px
+    }
+    .signupform_area .welcome_text_area>p {
+        font-size: 14px
+    }
+    .xs-margin-top-30 {
+        margin-top: 30px
+    }
+    .xs-margin-bottom-30 {
+        margin-bottom: 30px
+    }
+    .product_welcome_area .welcome_text_area>h2 {
+        font-size: 24px
+    }
+    .welcome_text_area {
+        margin-bottom: 30px;
+        padding: 0
+    }
+    .main_header_area {
+        background-color: #fff;
+        height: 70px
+    }
+    .service_welcome_area .welcome_text_area>h2 {
+        font-size: 30px
+    }
+    .app_landing_version .single_price_plan .title,
+    .app_landing_version .single_price_plan .description,
+    .single_price_plan .price_buy_btn {
+        width: 100%;
+        height: 200px !important
+    }
+    .logo_area {
+        padding: 17px 0
+    }
+    .mean-container .mean-nav {
+        top: 70px
+    }
+    .meanmenu-reveal.meanclose>span {
+        position: absolute;
+        top: 27px;
+        width: 25px
+    }
+    .header-form .welcome_text_area>h2 {
+        font-size: 30px
+    }
+    .header-form .welcome_area_thumb {
+        margin-bottom: 15px
+    }
+    .app_landing_version.signupform_area .welcome_text_area>h2 {
+        font-size: 24px
+    }
+    .download_now {
+        padding: 18px 0
+    }
+    .testimonials .owl-next i {
+        right: 0
+    }
+    .testimonials .owl-prev i {
+        left: 0
+    }
+    .download_now .greenland-btn {
+        font-size: 13px;
+        padding: 0.5em 1em
+    }
+    .sticky .download_now {
+        padding: 18px 0
+    }
+    .app_landing_version .welcome_text_area>p {
+        font-size: 16px
+    }
+    .newsletter-form input {
+        width: 100%
+    }
+    .newsletter-form .newsletter_btn {
+        position: relative
+    }
+    .welcome_area_thumb {
+        width: 280px
+    }
+    .download_app_img {
+        width: 100%
+    }
+    .landing_one_version .about_single_part_area .about_text {
+        padding: 0 15px
+    }
+    .landing_one_version .about_text>h2,
+    .slider .welcome_text_area h2 {
+        font-size: 24px
+    }
+    .slider .welcome_text_area p {
+        font-size: 16px
+    }
+    .slides_container .single_slide {
+        height: 500px
+    }
+}
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+    .container {
+        width: 450px
+    }
+    .welcome_area_thumb {
+        width: 350px
+    }
+}
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+    .container {
+        width: 550px
+    }
+    .welcome_area_thumb {
+        width: 500px
+    }
+    .slider .welcome_text_area h2 {
+        font-size: 36px
+    }
+    .slider .welcome_text_area p {
+        font-size: 20px
+    }
+}
